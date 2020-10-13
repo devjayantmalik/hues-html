@@ -1,0 +1,9 @@
+.section-developer-profile {
+    min-height: 80vh;
+}
+
+.section-developer-profile .developer-image {
+    position: relative;
+    height: 400px;
+    width: 400px;
+}

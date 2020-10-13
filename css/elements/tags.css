@@ -1,0 +1,12 @@
+.tags {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.tags span {
+    display: block;
+    padding: 5px 10px;
+    border-radius: 3px;
+    margin: 5px 10px;
+}

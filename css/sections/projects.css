@@ -1,0 +1,8 @@
+.projects-section .card {
+    width: 300px;
+}
+
+.projects-section {
+    height: 50vh;
+    padding-top: 30px;
+}

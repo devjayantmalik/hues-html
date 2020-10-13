@@ -1,0 +1,157 @@
+.section-hero {
+    background-color: #ffffff;
+}
+
+.section-hero h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #1f1235;
+}
+
+.section-hero .subtitle {
+    color: #1b1425;
+}
+
+.hero-button {
+    background-color: #ff6e6c;
+    color: #1f1235;
+}
+
+/* Styles related to features section */
+
+.section-features {
+    background-color: #f4effc;
+}
+
+.section-features .title {
+    color: #1f1135;
+}
+
+.section-features .subtitle {
+    color: #1b1325;
+}
+
+.section-features .card {
+    background-color: #e2daeb;
+}
+
+.section-features .card-title {
+    color: #1f1135;
+}
+
+.section-features .card p {
+    color: #1b1325;
+}
+
+/* Styles related to  */
+
+.section-colors {
+    background-color: #ffffff;
+}
+
+.section-colors .title {
+    color: #1f1235;
+}
+
+.section-colors .subtitle {
+    color: #1b1425;
+}
+
+.section-colors .card {
+    background-color: #301e4e;
+    color: #f4f0fc;
+}
+
+.section-colors .card-title {
+    color: #ffffff;
+}
+
+.section-colors .card-label {
+    color: #ff6e6c;
+}
+
+.section-colors .card .tag {
+    background-color: #4c346b;
+    color: #ffffff;
+}
+.section-colors .card h1,
+.section-colors .card h2,
+.section-colors .card h3,
+.section-colors .card h4,
+.section-colors .card h5,
+.section-colors .card h6 {
+    color: #ffffff;
+}
+
+/* Styles related to developer profile section */
+
+.section-developer-profile {
+    background-color: #301e4e;
+    color: #ffffff;
+}
+
+.section-developer-profile .title {
+    color: #ffffff;
+}
+
+.section-developer-profile .subtitle {
+    color: #c9bae2;
+}
+
+.section-developer-profile a {
+    color: #ff6e6c;
+}
+
+/* Styles related to projects section */
+
+.section-projects {
+    background-color: #301e4e;
+    color: #ffffff;
+}
+
+.section-projects .title {
+    color: #ffffff;
+}
+
+.section-projects a {
+    color: #ff6e6c;
+}
+
+.section-projects .card {
+    background-color: #463366;
+}
+
+.section-projects .card-title {
+    color: #ffffff;
+}
+
+.section-projects .card p {
+    color: #cabae2;
+}
+
+.section-subscribe button {
+    background-color: #ff6e6c;
+}
+.section-subscribe button:hover {
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #ffffff;
+}
+
+.footer a {
+    color: #ff6e6c;
+    text-decoration: underline;
+}
+
+.footer .title {
+    color: #1f1235;
+}
+
+.footer p {
+    color: #1b1425;
+}

@@ -1,0 +1,15 @@
+.form-inline-block * {
+    display: block;
+}
+
+.form-inline-block div {
+    display: inline-block;
+    margin: 15px;
+}
+
+.form-inline-block input {
+    padding: 5px;
+    border-radius: 3px;
+    border: 0;
+    border: 2px solid black;
+}

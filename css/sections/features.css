@@ -1,0 +1,14 @@
+.section-features .card {
+    width: 420px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.section-features .feature-cards {
+    width: 80%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

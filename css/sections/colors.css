@@ -1,0 +1,4 @@
+.color-card .card-header {
+    display: flex;
+    justify-content: space-between;
+}
